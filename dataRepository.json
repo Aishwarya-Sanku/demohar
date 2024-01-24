@@ -1,0 +1,8 @@
+{
+  "dev": {},
+  "qa": {},
+  "integration": {},
+  "staging": {},
+  "uat": {},
+  "prod": {}
+}
